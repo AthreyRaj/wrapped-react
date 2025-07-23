@@ -63,7 +63,7 @@ export default function IntroSlide() {
       {/* Centered Overlay Text + CTA */}
       <div className="absolute top-1/2 left-1/2 z-20 transform -translate-x-1/2 -translate-y-1/2 text-center text-white px-4">
         <h1 className="text-4xl md:text-6xl font-bold mb-4 drop-shadow-lg">
-          HELLOO, HAPPYYY 2ND YEAR ANIVERSARY 👋
+          HAPPYYY 2ND YEAR ANNIVERSARY 👋
         </h1>
 
         <motion.p
